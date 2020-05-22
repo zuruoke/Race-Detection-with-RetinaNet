@@ -5,7 +5,7 @@ But first of all, I will relate the basic intuition behind RetinaNet
 
 ![5d30d50bbe811865302eda60_s_9F0961CE65C906E6A73F32E5A1E42780840414967C63EDB3B15BF25F424BC7C0_1563480199678_image](https://user-images.githubusercontent.com/51057490/82675735-296a6c80-9c3d-11ea-8f02-d84e808f8e3f.png)
 
-**RetinaNet** is the current **state-of-the-art Object Detector Algorithm** which is composed of three networks
+**RetinaNet** is the current **state-of-the-art Object Detection Algorithm** which is composed of three networks
 - A **backbone network** called Feature Pyramid Net (FPN), which is built on top of ResNet
 - A **subnetwork** responsible for performing object classification using the backbone’s output
 - A **subnetwork** responsible for performing bounding box regression using the backbone’s output
