@@ -54,7 +54,7 @@ The *workflow* are outlined as follows:
 - Train the Pretrained RetinaNet by specifying a backbone (I used Retina50) and save the learned parameters after each epochs
 - Convert the saved model to an inference graph to test on unseeen data
 
-Here are some of following Results from the Inference Model:
+# Here are some of following Results from the Inference Model:
 
 
 ![view7](https://user-images.githubusercontent.com/51057490/82677218-954dd480-9c3f-11ea-8dcd-3236faaa412e.JPG)
